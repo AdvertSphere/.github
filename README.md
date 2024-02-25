@@ -1,4 +1,4 @@
-# Blockchain Oriented Advertisement Commission Kit
+# AdvertChain
 
 ## Project Overview
 
